@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Abhishek Kanojia"]
   spec.email         = ["abhishek.kanojia3193@gmail.com"]
 
-  spec.summary       = %q{ This gem provides numeric field restriction to input fields using jquery. }
-  spec.description   = %q{ This gem provides easy way of restricting form fields to be numeric. Allow Numeric integrates with Rails asset pipeline for easy of use. }
+  spec.summary       = %q{ This gem provides easy way to restrict numeric input to input fields using jquery. }
+  spec.description   = %q{ This gem provides easy way to restrict numeric input to input fields using jquery. Allow Numeric integrates with Rails asset pipeline for easy of use. }
   spec.homepage      = "https://github.com/abhikanojia/allow_numeric"
   spec.license       = "MIT"
 
