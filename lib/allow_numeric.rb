@@ -2,6 +2,6 @@ require "allow_numeric/version"
 
 module AllowNumeric
   module Rails
-    require "select2-rails/engine"
+    require "allow_numeric/engine"
   end
 end
