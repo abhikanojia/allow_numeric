@@ -1,5 +1,7 @@
 require "allow_numeric/version"
 
 module AllowNumeric
-  # Your code goes here...
+  module Rails
+    require "select2-rails/engine"
+  end
 end
